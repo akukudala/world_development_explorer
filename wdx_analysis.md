@@ -18,4 +18,18 @@ the correlation between the education and the income.
 - **Data Source:** World Development Explorer ([worlddev.xyz](https://))
 - **Regions Analyzed:** East Asia & Pacific
 - **Years considered:** 2010-2015
-- 
+
+## Female population (age 15-19) over the years 2010 to 2015 with No Education
+**Firstly, let us observe the female population with no education among various countries**
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/no_education.png)
+
+## Female population (age 15-19) over the years 2010 to 2015 with Primary Education Completion
+**Countries with Female Population % who has completed Primary education**
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/Primary_education.png)
+
+## Female population (age 15-19) over the years 2010 to 2015 with Secondary Education Completion
+**Countries with Female Population % who has completed Secondary education**
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/Secondary_education.png)
