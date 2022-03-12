@@ -1,7 +1,7 @@
 * Name: Akshitha Kukudala
 * Date: 3/12/2022
 
-# Analyzing the percentages of female population (age 15-19) over the years 2010 to 2015 
+# Analyzing the percentages of female population (age 15-19) education stats over the years 2010 to 2015 
 ## Indicators to consider
 * No Education
 * Completed Primary Education
@@ -33,3 +33,6 @@ the correlation between the education and the income.
 **Countries with Female Population % who has completed Secondary education**
 
 ![](https://github.com/akukudala/world_development_explorer/blob/main/charts/Secondary_education.png)
+
+
+Now, let us consider 3 different Income Groups and filter the female education % 
