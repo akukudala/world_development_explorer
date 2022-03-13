@@ -38,18 +38,34 @@ In the above three charts, we have seen different countries in leading for no ed
 Now, let us consider 3 different Income Groups and filter the female education % financial status wise and observe how the financial status influence the education of an individual.
 
 ## No Education grouping by Incomes
-
+<p>
+While it is obvious that lower middle income population has the highest illeteracy rates, it is surprising to the high income to take the second place.
+</p>
 
 ![](https://github.com/akukudala/world_development_explorer/blob/main/charts/lowincome_noedu.png)
 
 ## Primary Education grouping by Incomes
-
+<p>
+Lower middle income is leading in the primary education too. Despite of earning less, these countries are giving importance for the primary education to female population 
+</p>
 
 ![](https://github.com/akukudala/world_development_explorer/blob/main/charts/primaryedu_lowincome.png)
 
 ## Secondary Education grouping by Incomes
-
+<p>
+  This chart cleary shows that the secondary education is mostly dependent on the financial status. As you can see, the Upper middle and high income has the highest percentages of female population who has completed the Secondary education
+</p>
 
 ![](https://github.com/akukudala/world_development_explorer/blob/main/charts/highincome_secondaryedu.png)
+
+
+
+
+
+
+## East Asia and Pacific education compared to all other regions in the World
+
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/with_all_regions.png)
 
 
