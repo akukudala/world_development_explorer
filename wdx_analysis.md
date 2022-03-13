@@ -19,6 +19,11 @@ the correlation between the education and the income.
 - **Regions Analyzed:** East Asia & Pacific
 - **Years considered:** 2010-2015
 
+The important analyzation factors are to find the answers for the below questions.
+* What are the leading countries in no education, primary and secondary education seperately?
+* How does the financial situation impacting the female education?
+* What position does East Asia & Pacific is in comparison with other regions?
+
 ## Female population (age 15-19) over the years 2010 to 2015 with No Education
 **Firstly, let us observe the female population with no education among various countries**
 
