@@ -34,7 +34,22 @@ the correlation between the education and the income.
 
 ![](https://github.com/akukudala/world_development_explorer/blob/main/charts/Secondary_education.png)
 
+In the above three charts, we have seen different countries in leading for no education, primary and secondary completion.
+Now, let us consider 3 different Income Groups and filter the female education % financial status wise and observe how the financial status influence the education of an individual.
 
-Now, let us consider 3 different Income Groups and filter the female education % financial status wise.
+## No Education grouping by Incomes
+
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/lowincome_noedu.png)
+
+## Primary Education grouping by Incomes
+
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/primaryedu_lowincome.png)
+
+## Secondary Education grouping by Incomes
+
+
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/highincome_secondaryedu.png)
 
 
