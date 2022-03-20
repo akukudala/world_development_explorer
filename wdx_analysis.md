@@ -73,6 +73,7 @@ Lower middle income is leading in the primary education too. Despite of earning 
 <p>
   The comparison between the regions in percentages of female population (age 15-19) education stats over the years 2010 to 2015. East Asia & Pacific holds the maximum percentage in completion of the Secondary education for Females in the mentioned year range among the other regions. North America also has a good % of female secondary education. East Asia & Pacific, North America and South Asia holds more than 50% of the secondary education % in the world. 
 </p>
+
 ![](https://github.com/akukudala/world_development_explorer/blob/main/charts/all_regions_secondary_edu1.png)
 
 
