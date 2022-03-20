@@ -1,5 +1,5 @@
 * Name: Akshitha Kukudala
-* Date: 3/12/2022
+* Date: 3/19/2022
 
 # Analyzing the percentages of female population (age 15-19) education stats over the years 2010 to 2015 
 ## Indicators to consider
@@ -73,6 +73,6 @@ Lower middle income is leading in the primary education too. Despite of earning 
 ## East Asia and Pacific education compared to all other regions in the World
 
 
-![](https://github.com/akukudala/world_development_explorer/blob/main/charts/seconday_all_regions.png)
+![](https://github.com/akukudala/world_development_explorer/blob/main/charts/all_regions_secondary_edu.png)
 
 
