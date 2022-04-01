@@ -1,0 +1,433 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,0.02,BAR.PRM.CMPT.1519.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+1,2010,4.41,BAR.PRM.CMPT.1519.FE.ZS,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+2,2010,23.28,BAR.PRM.CMPT.1519.FE.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+3,2010,23.42,BAR.PRM.CMPT.1519.FE.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+4,2010,1.05,BAR.PRM.CMPT.1519.FE.ZS,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+5,2010,18.53,BAR.PRM.CMPT.1519.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2010,51.59,BAR.PRM.CMPT.1519.FE.ZS,AUT,Austria,Europe & Central Asia,High income,Not classified
+7,2010,9.07,BAR.PRM.CMPT.1519.FE.ZS,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+8,2010,37.82,BAR.PRM.CMPT.1519.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+9,2010,0.02,BAR.PRM.CMPT.1519.FE.ZS,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+10,2010,14.7,BAR.PRM.CMPT.1519.FE.ZS,BEL,Belgium,Europe & Central Asia,High income,Not classified
+11,2010,7.47,BAR.PRM.CMPT.1519.FE.ZS,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+12,2010,21.2,BAR.PRM.CMPT.1519.FE.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+13,2010,15.26,BAR.PRM.CMPT.1519.FE.ZS,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+14,2010,3.79,BAR.PRM.CMPT.1519.FE.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+15,2010,28.88,BAR.PRM.CMPT.1519.FE.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+16,2010,17.47,BAR.PRM.CMPT.1519.FE.ZS,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+17,2010,7.69,BAR.PRM.CMPT.1519.FE.ZS,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+18,2010,38.57,BAR.PRM.CMPT.1519.FE.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+19,2010,39.93,BAR.PRM.CMPT.1519.FE.ZS,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+20,2010,26.17,BAR.PRM.CMPT.1519.FE.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+21,2010,3.4,BAR.PRM.CMPT.1519.FE.ZS,CAN,Canada,North America,High income,Not classified
+22,2010,22.43,BAR.PRM.CMPT.1519.FE.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+23,2010,3.8200000000000003,BAR.PRM.CMPT.1519.FE.ZS,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+24,2010,6.67,BAR.PRM.CMPT.1519.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2010,7.46,BAR.PRM.CMPT.1519.FE.ZS,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+26,2010,0.0,BAR.PRM.CMPT.1519.FE.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+27,2010,5.39,BAR.PRM.CMPT.1519.FE.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+28,2010,28.07,BAR.PRM.CMPT.1519.FE.ZS,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+29,2010,42.42,BAR.PRM.CMPT.1519.FE.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+30,2010,1.7000000000000002,BAR.PRM.CMPT.1519.FE.ZS,HRV,Croatia,Europe & Central Asia,High income,IBRD
+31,2010,4.22,BAR.PRM.CMPT.1519.FE.ZS,CUB,Cuba,Latin America & Caribbean ,Upper middle income,Not classified
+32,2010,4.99,BAR.PRM.CMPT.1519.FE.ZS,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+33,2010,8.61,BAR.PRM.CMPT.1519.FE.ZS,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+34,2010,0.02,BAR.PRM.CMPT.1519.FE.ZS,DNK,Denmark,Europe & Central Asia,High income,Not classified
+35,2010,10.77,BAR.PRM.CMPT.1519.FE.ZS,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+36,2010,63.15,BAR.PRM.CMPT.1519.FE.ZS,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+37,2010,13.94,BAR.PRM.CMPT.1519.FE.ZS,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+38,2010,19.47,BAR.PRM.CMPT.1519.FE.ZS,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+39,2010,20.66,BAR.PRM.CMPT.1519.FE.ZS,EST,Estonia,Europe & Central Asia,High income,Not classified
+40,2010,20.6,BAR.PRM.CMPT.1519.FE.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+41,2010,10.26,BAR.PRM.CMPT.1519.FE.ZS,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+42,2010,0.0,BAR.PRM.CMPT.1519.FE.ZS,FIN,Finland,Europe & Central Asia,High income,Not classified
+43,2010,1.78,BAR.PRM.CMPT.1519.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+44,2010,25.6,BAR.PRM.CMPT.1519.FE.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+45,2010,16.15,BAR.PRM.CMPT.1519.FE.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+46,2010,30.5,BAR.PRM.CMPT.1519.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+47,2010,15.47,BAR.PRM.CMPT.1519.FE.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+48,2010,11.11,BAR.PRM.CMPT.1519.FE.ZS,GRC,Greece,Europe & Central Asia,High income,Not classified
+49,2010,34.93,BAR.PRM.CMPT.1519.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+50,2010,7.1,BAR.PRM.CMPT.1519.FE.ZS,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+51,2010,7.57,BAR.PRM.CMPT.1519.FE.ZS,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+52,2010,23.92,BAR.PRM.CMPT.1519.FE.ZS,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+53,2010,0.04,BAR.PRM.CMPT.1519.FE.ZS,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified
+54,2010,3.29,BAR.PRM.CMPT.1519.FE.ZS,HUN,Hungary,Europe & Central Asia,High income,Not classified
+55,2010,7.84,BAR.PRM.CMPT.1519.FE.ZS,ISL,Iceland,Europe & Central Asia,High income,Not classified
+56,2010,12.44,BAR.PRM.CMPT.1519.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+57,2010,27.03,BAR.PRM.CMPT.1519.FE.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+58,2010,10.02,BAR.PRM.CMPT.1519.FE.ZS,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+59,2010,11.7,BAR.PRM.CMPT.1519.FE.ZS,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+60,2010,21.27,BAR.PRM.CMPT.1519.FE.ZS,IRL,Ireland,Europe & Central Asia,High income,Not classified
+61,2010,6.69,BAR.PRM.CMPT.1519.FE.ZS,ISR,Israel,Middle East & North Africa,High income,Not classified
+62,2010,1.32,BAR.PRM.CMPT.1519.FE.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+63,2010,0.04,BAR.PRM.CMPT.1519.FE.ZS,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+64,2010,1.8900000000000001,BAR.PRM.CMPT.1519.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+65,2010,8.38,BAR.PRM.CMPT.1519.FE.ZS,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+66,2010,6.84,BAR.PRM.CMPT.1519.FE.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+67,2010,18.5,BAR.PRM.CMPT.1519.FE.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+68,2010,0.07,BAR.PRM.CMPT.1519.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+69,2010,50.37,BAR.PRM.CMPT.1519.FE.ZS,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+70,2010,22.89,BAR.PRM.CMPT.1519.FE.ZS,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+71,2010,25.56,BAR.PRM.CMPT.1519.FE.ZS,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+72,2010,3.94,BAR.PRM.CMPT.1519.FE.ZS,LVA,Latvia,Europe & Central Asia,High income,Not classified
+73,2010,35.46,BAR.PRM.CMPT.1519.FE.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+74,2010,34.63,BAR.PRM.CMPT.1519.FE.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+75,2010,9.76,BAR.PRM.CMPT.1519.FE.ZS,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+76,2010,38.37,BAR.PRM.CMPT.1519.FE.ZS,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+77,2010,32.97,BAR.PRM.CMPT.1519.FE.ZS,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+78,2010,11.46,BAR.PRM.CMPT.1519.FE.ZS,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+79,2010,29.85,BAR.PRM.CMPT.1519.FE.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+80,2010,1.9100000000000001,BAR.PRM.CMPT.1519.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+81,2010,17.5,BAR.PRM.CMPT.1519.FE.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+82,2010,18.54,BAR.PRM.CMPT.1519.FE.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+83,2010,19.47,BAR.PRM.CMPT.1519.FE.ZS,MLT,Malta,Middle East & North Africa,High income,Not classified
+84,2010,73.99,BAR.PRM.CMPT.1519.FE.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+85,2010,0.93,BAR.PRM.CMPT.1519.FE.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+86,2010,8.27,BAR.PRM.CMPT.1519.FE.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+87,2010,17.77,BAR.PRM.CMPT.1519.FE.ZS,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+88,2010,10.65,BAR.PRM.CMPT.1519.FE.ZS,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+89,2010,26.68,BAR.PRM.CMPT.1519.FE.ZS,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+90,2010,21.66,BAR.PRM.CMPT.1519.FE.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+91,2010,57.4,BAR.PRM.CMPT.1519.FE.ZS,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+92,2010,55.73,BAR.PRM.CMPT.1519.FE.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+93,2010,38.77,BAR.PRM.CMPT.1519.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+94,2010,17.49,BAR.PRM.CMPT.1519.FE.ZS,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+95,2010,0.06,BAR.PRM.CMPT.1519.FE.ZS,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+96,2010,14.82,BAR.PRM.CMPT.1519.FE.ZS,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+97,2010,17.21,BAR.PRM.CMPT.1519.FE.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+98,2010,0.01,BAR.PRM.CMPT.1519.FE.ZS,NOR,Norway,Europe & Central Asia,High income,Not classified
+99,2010,17.81,BAR.PRM.CMPT.1519.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+100,2010,18.24,BAR.PRM.CMPT.1519.FE.ZS,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+101,2010,43.3,BAR.PRM.CMPT.1519.FE.ZS,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend
+102,2010,29.65,BAR.PRM.CMPT.1519.FE.ZS,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+103,2010,19.82,BAR.PRM.CMPT.1519.FE.ZS,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+104,2010,11.14,BAR.PRM.CMPT.1519.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+105,2010,21.92,BAR.PRM.CMPT.1519.FE.ZS,POL,Poland,Europe & Central Asia,High income,IBRD
+106,2010,18.16,BAR.PRM.CMPT.1519.FE.ZS,PRT,Portugal,Europe & Central Asia,High income,Not classified
+107,2010,8.5,BAR.PRM.CMPT.1519.FE.ZS,QAT,Qatar,Middle East & North Africa,High income,Not classified
+108,2010,2.31,BAR.PRM.CMPT.1519.FE.ZS,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+109,2010,7.01,BAR.PRM.CMPT.1519.FE.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+110,2010,47.68,BAR.PRM.CMPT.1519.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+111,2010,16.87,BAR.PRM.CMPT.1519.FE.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+112,2010,34.02,BAR.PRM.CMPT.1519.FE.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+113,2010,0.62,BAR.PRM.CMPT.1519.FE.ZS,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+114,2010,11.53,BAR.PRM.CMPT.1519.FE.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+115,2010,1.55,BAR.PRM.CMPT.1519.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+116,2010,7.55,BAR.PRM.CMPT.1519.FE.ZS,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+117,2010,0.87,BAR.PRM.CMPT.1519.FE.ZS,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+118,2010,8.2,BAR.PRM.CMPT.1519.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+119,2010,17.4,BAR.PRM.CMPT.1519.FE.ZS,ESP,Spain,Europe & Central Asia,High income,Not classified
+120,2010,1.62,BAR.PRM.CMPT.1519.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+121,2010,43.15,BAR.PRM.CMPT.1519.FE.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+122,2010,0.14,BAR.PRM.CMPT.1519.FE.ZS,SWE,Sweden,Europe & Central Asia,High income,Not classified
+123,2010,8.41,BAR.PRM.CMPT.1519.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+124,2010,24.51,BAR.PRM.CMPT.1519.FE.ZS,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,IDA
+125,2010,0.04,BAR.PRM.CMPT.1519.FE.ZS,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+126,2010,48.89,BAR.PRM.CMPT.1519.FE.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+127,2010,9.94,BAR.PRM.CMPT.1519.FE.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+128,2010,25.41,BAR.PRM.CMPT.1519.FE.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+129,2010,0.9500000000000001,BAR.PRM.CMPT.1519.FE.ZS,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+130,2010,1.12,BAR.PRM.CMPT.1519.FE.ZS,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+131,2010,10.87,BAR.PRM.CMPT.1519.FE.ZS,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+132,2010,5.94,BAR.PRM.CMPT.1519.FE.ZS,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+133,2010,18.18,BAR.PRM.CMPT.1519.FE.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+134,2010,18.19,BAR.PRM.CMPT.1519.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+135,2010,12.01,BAR.PRM.CMPT.1519.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+136,2010,12.3,BAR.PRM.CMPT.1519.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+137,2010,6.69,BAR.PRM.CMPT.1519.FE.ZS,USA,United States,North America,High income,Not classified
+138,2010,34.96,BAR.PRM.CMPT.1519.FE.ZS,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+139,2010,18.53,BAR.PRM.CMPT.1519.FE.ZS,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+140,2010,6.38,BAR.PRM.CMPT.1519.FE.ZS,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+141,2010,15.71,BAR.PRM.CMPT.1519.FE.ZS,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+142,2010,12.53,BAR.PRM.CMPT.1519.FE.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+143,2010,40.4,BAR.PRM.CMPT.1519.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+144,2010,59.18,BAR.NOED.1519.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+145,2010,0.9500000000000001,BAR.NOED.1519.FE.ZS,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+146,2010,6.79,BAR.NOED.1519.FE.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+147,2010,0.2,BAR.NOED.1519.FE.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+148,2010,0.16,BAR.NOED.1519.FE.ZS,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+149,2010,0.1,BAR.NOED.1519.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+150,2010,0.11,BAR.NOED.1519.FE.ZS,AUT,Austria,Europe & Central Asia,High income,Not classified
+151,2010,2.55,BAR.NOED.1519.FE.ZS,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+152,2010,0.09,BAR.NOED.1519.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+153,2010,0.09,BAR.NOED.1519.FE.ZS,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+154,2010,0.23,BAR.NOED.1519.FE.ZS,BEL,Belgium,Europe & Central Asia,High income,Not classified
+155,2010,0.07,BAR.NOED.1519.FE.ZS,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+156,2010,32.5,BAR.NOED.1519.FE.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+157,2010,0.43,BAR.NOED.1519.FE.ZS,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+158,2010,0.1,BAR.NOED.1519.FE.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+159,2010,0.11,BAR.NOED.1519.FE.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+160,2010,20.1,BAR.NOED.1519.FE.ZS,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+161,2010,3.2,BAR.NOED.1519.FE.ZS,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+162,2010,40.83,BAR.NOED.1519.FE.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+163,2010,7.86,BAR.NOED.1519.FE.ZS,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+164,2010,35.4,BAR.NOED.1519.FE.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+165,2010,0.1,BAR.NOED.1519.FE.ZS,CAN,Canada,North America,High income,Not classified
+166,2010,59.57,BAR.NOED.1519.FE.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+167,2010,1.07,BAR.NOED.1519.FE.ZS,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+168,2010,0.49,BAR.NOED.1519.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+169,2010,0.74,BAR.NOED.1519.FE.ZS,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+170,2010,48.1,BAR.NOED.1519.FE.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+171,2010,15.18,BAR.NOED.1519.FE.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+172,2010,0.44,BAR.NOED.1519.FE.ZS,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+173,2010,37.82,BAR.NOED.1519.FE.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+174,2010,0.32,BAR.NOED.1519.FE.ZS,HRV,Croatia,Europe & Central Asia,High income,IBRD
+175,2010,0.64,BAR.NOED.1519.FE.ZS,CUB,Cuba,Latin America & Caribbean ,Upper middle income,Not classified
+176,2010,0.16,BAR.NOED.1519.FE.ZS,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+177,2010,0.22,BAR.NOED.1519.FE.ZS,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+178,2010,0.0,BAR.NOED.1519.FE.ZS,DNK,Denmark,Europe & Central Asia,High income,Not classified
+179,2010,1.24,BAR.NOED.1519.FE.ZS,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+180,2010,1.11,BAR.NOED.1519.FE.ZS,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+181,2010,8.33,BAR.NOED.1519.FE.ZS,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+182,2010,1.7000000000000002,BAR.NOED.1519.FE.ZS,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+183,2010,0.45,BAR.NOED.1519.FE.ZS,EST,Estonia,Europe & Central Asia,High income,Not classified
+184,2010,22.63,BAR.NOED.1519.FE.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+185,2010,0.32,BAR.NOED.1519.FE.ZS,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+186,2010,0.0,BAR.NOED.1519.FE.ZS,FIN,Finland,Europe & Central Asia,High income,Not classified
+187,2010,0.01,BAR.NOED.1519.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+188,2010,11.7,BAR.NOED.1519.FE.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+189,2010,29.32,BAR.NOED.1519.FE.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+190,2010,3.4,BAR.NOED.1519.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+191,2010,12.16,BAR.NOED.1519.FE.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+192,2010,0.07,BAR.NOED.1519.FE.ZS,GRC,Greece,Europe & Central Asia,High income,Not classified
+193,2010,3.08,BAR.NOED.1519.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+194,2010,0.7000000000000001,BAR.NOED.1519.FE.ZS,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+195,2010,0.08,BAR.NOED.1519.FE.ZS,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+196,2010,2.22,BAR.NOED.1519.FE.ZS,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+197,2010,0.0,BAR.NOED.1519.FE.ZS,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified
+198,2010,0.79,BAR.NOED.1519.FE.ZS,HUN,Hungary,Europe & Central Asia,High income,Not classified
+199,2010,1.5,BAR.NOED.1519.FE.ZS,ISL,Iceland,Europe & Central Asia,High income,Not classified
+200,2010,11.09,BAR.NOED.1519.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+201,2010,0.92,BAR.NOED.1519.FE.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+202,2010,0.06,BAR.NOED.1519.FE.ZS,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+203,2010,18.53,BAR.NOED.1519.FE.ZS,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+204,2010,0.14,BAR.NOED.1519.FE.ZS,IRL,Ireland,Europe & Central Asia,High income,Not classified
+205,2010,0.43,BAR.NOED.1519.FE.ZS,ISR,Israel,Middle East & North Africa,High income,Not classified
+206,2010,0.21,BAR.NOED.1519.FE.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+207,2010,10.17,BAR.NOED.1519.FE.ZS,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+208,2010,0.93,BAR.NOED.1519.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+209,2010,0.93,BAR.NOED.1519.FE.ZS,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+210,2010,0.1,BAR.NOED.1519.FE.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+211,2010,7.8,BAR.NOED.1519.FE.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+212,2010,0.05,BAR.NOED.1519.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+213,2010,0.21,BAR.NOED.1519.FE.ZS,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+214,2010,0.2,BAR.NOED.1519.FE.ZS,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+215,2010,25.41,BAR.NOED.1519.FE.ZS,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+216,2010,2.02,BAR.NOED.1519.FE.ZS,LVA,Latvia,Europe & Central Asia,High income,Not classified
+217,2010,1.54,BAR.NOED.1519.FE.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+218,2010,31.95,BAR.NOED.1519.FE.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+219,2010,0.1,BAR.NOED.1519.FE.ZS,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+220,2010,0.0,BAR.NOED.1519.FE.ZS,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+221,2010,0.87,BAR.NOED.1519.FE.ZS,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+222,2010,0.14,BAR.NOED.1519.FE.ZS,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+223,2010,0.09,BAR.NOED.1519.FE.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+224,2010,1.63,BAR.NOED.1519.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+225,2010,1.42,BAR.NOED.1519.FE.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+226,2010,56.58,BAR.NOED.1519.FE.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+227,2010,0.47000000000000003,BAR.NOED.1519.FE.ZS,MLT,Malta,Middle East & North Africa,High income,Not classified
+228,2010,3.08,BAR.NOED.1519.FE.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+229,2010,0.2,BAR.NOED.1519.FE.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+230,2010,1.12,BAR.NOED.1519.FE.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+231,2010,0.29,BAR.NOED.1519.FE.ZS,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+232,2010,2.32,BAR.NOED.1519.FE.ZS,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+233,2010,21.95,BAR.NOED.1519.FE.ZS,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+234,2010,60.63,BAR.NOED.1519.FE.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+235,2010,0.1,BAR.NOED.1519.FE.ZS,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+236,2010,22.53,BAR.NOED.1519.FE.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+237,2010,6.89,BAR.NOED.1519.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+238,2010,0.0,BAR.NOED.1519.FE.ZS,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+239,2010,4.68,BAR.NOED.1519.FE.ZS,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+240,2010,5.72,BAR.NOED.1519.FE.ZS,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+241,2010,69.64,BAR.NOED.1519.FE.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+242,2010,2.58,BAR.NOED.1519.FE.ZS,NOR,Norway,Europe & Central Asia,High income,Not classified
+243,2010,35.46,BAR.NOED.1519.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+244,2010,3.85,BAR.NOED.1519.FE.ZS,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+245,2010,40.67,BAR.NOED.1519.FE.ZS,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend
+246,2010,0.96,BAR.NOED.1519.FE.ZS,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+247,2010,0.5700000000000001,BAR.NOED.1519.FE.ZS,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+248,2010,0.92,BAR.NOED.1519.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+249,2010,0.05,BAR.NOED.1519.FE.ZS,POL,Poland,Europe & Central Asia,High income,IBRD
+250,2010,0.32,BAR.NOED.1519.FE.ZS,PRT,Portugal,Europe & Central Asia,High income,Not classified
+251,2010,0.27,BAR.NOED.1519.FE.ZS,QAT,Qatar,Middle East & North Africa,High income,Not classified
+252,2010,0.88,BAR.NOED.1519.FE.ZS,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+253,2010,0.58,BAR.NOED.1519.FE.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+254,2010,22.37,BAR.NOED.1519.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+255,2010,0.1,BAR.NOED.1519.FE.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+256,2010,38.1,BAR.NOED.1519.FE.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+257,2010,1.5899999999999999,BAR.NOED.1519.FE.ZS,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+258,2010,37.88,BAR.NOED.1519.FE.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+259,2010,2.02,BAR.NOED.1519.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+260,2010,0.54,BAR.NOED.1519.FE.ZS,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+261,2010,0.09,BAR.NOED.1519.FE.ZS,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+262,2010,0.30000000000000004,BAR.NOED.1519.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+263,2010,0.22,BAR.NOED.1519.FE.ZS,ESP,Spain,Europe & Central Asia,High income,Not classified
+264,2010,0.89,BAR.NOED.1519.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+265,2010,51.54,BAR.NOED.1519.FE.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+266,2010,5.06,BAR.NOED.1519.FE.ZS,SWE,Sweden,Europe & Central Asia,High income,Not classified
+267,2010,5.08,BAR.NOED.1519.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+268,2010,5.34,BAR.NOED.1519.FE.ZS,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,IDA
+269,2010,0.1,BAR.NOED.1519.FE.ZS,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+270,2010,0.1,BAR.NOED.1519.FE.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+271,2010,2.47,BAR.NOED.1519.FE.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+272,2010,17.6,BAR.NOED.1519.FE.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+273,2010,0.30000000000000004,BAR.NOED.1519.FE.ZS,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+274,2010,0.13,BAR.NOED.1519.FE.ZS,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+275,2010,2.55,BAR.NOED.1519.FE.ZS,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+276,2010,2.5300000000000002,BAR.NOED.1519.FE.ZS,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+277,2010,0.07,BAR.NOED.1519.FE.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+278,2010,0.1,BAR.NOED.1519.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+279,2010,0.1,BAR.NOED.1519.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+280,2010,0.05,BAR.NOED.1519.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+281,2010,0.19,BAR.NOED.1519.FE.ZS,USA,United States,North America,High income,Not classified
+282,2010,0.08,BAR.NOED.1519.FE.ZS,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+283,2010,1.5,BAR.NOED.1519.FE.ZS,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+284,2010,57.77,BAR.NOED.1519.FE.ZS,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+285,2010,44.04,BAR.NOED.1519.FE.ZS,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+286,2010,2.87,BAR.NOED.1519.FE.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+287,2010,0.1,BAR.NOED.1519.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+288,2010,14.19,BAR.SEC.CMPT.1519.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+289,2010,37.25,BAR.SEC.CMPT.1519.FE.ZS,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+290,2010,26.73,BAR.SEC.CMPT.1519.FE.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+291,2010,20.48,BAR.SEC.CMPT.1519.FE.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+292,2010,57.04,BAR.SEC.CMPT.1519.FE.ZS,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+293,2010,35.24,BAR.SEC.CMPT.1519.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+294,2010,7.92,BAR.SEC.CMPT.1519.FE.ZS,AUT,Austria,Europe & Central Asia,High income,Not classified
+295,2010,22.51,BAR.SEC.CMPT.1519.FE.ZS,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+296,2010,62.04,BAR.SEC.CMPT.1519.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+297,2010,7.0,BAR.SEC.CMPT.1519.FE.ZS,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+298,2010,25.91,BAR.SEC.CMPT.1519.FE.ZS,BEL,Belgium,Europe & Central Asia,High income,Not classified
+299,2010,29.7,BAR.SEC.CMPT.1519.FE.ZS,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+300,2010,15.19,BAR.SEC.CMPT.1519.FE.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+301,2010,16.93,BAR.SEC.CMPT.1519.FE.ZS,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+302,2010,24.26,BAR.SEC.CMPT.1519.FE.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+303,2010,20.37,BAR.SEC.CMPT.1519.FE.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+304,2010,19.74,BAR.SEC.CMPT.1519.FE.ZS,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+305,2010,18.22,BAR.SEC.CMPT.1519.FE.ZS,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+306,2010,6.37,BAR.SEC.CMPT.1519.FE.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+307,2010,2.38,BAR.SEC.CMPT.1519.FE.ZS,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+308,2010,12.55,BAR.SEC.CMPT.1519.FE.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+309,2010,36.32,BAR.SEC.CMPT.1519.FE.ZS,CAN,Canada,North America,High income,Not classified
+310,2010,5.77,BAR.SEC.CMPT.1519.FE.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+311,2010,28.17,BAR.SEC.CMPT.1519.FE.ZS,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+312,2010,45.25,BAR.SEC.CMPT.1519.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+313,2010,33.01,BAR.SEC.CMPT.1519.FE.ZS,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+314,2010,9.07,BAR.SEC.CMPT.1519.FE.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+315,2010,0.41000000000000003,BAR.SEC.CMPT.1519.FE.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+316,2010,29.3,BAR.SEC.CMPT.1519.FE.ZS,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+317,2010,3.54,BAR.SEC.CMPT.1519.FE.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+318,2010,19.28,BAR.SEC.CMPT.1519.FE.ZS,HRV,Croatia,Europe & Central Asia,High income,IBRD
+319,2010,14.65,BAR.SEC.CMPT.1519.FE.ZS,CUB,Cuba,Latin America & Caribbean ,Upper middle income,Not classified
+320,2010,27.15,BAR.SEC.CMPT.1519.FE.ZS,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+321,2010,11.39,BAR.SEC.CMPT.1519.FE.ZS,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+322,2010,8.86,BAR.SEC.CMPT.1519.FE.ZS,DNK,Denmark,Europe & Central Asia,High income,Not classified
+323,2010,20.03,BAR.SEC.CMPT.1519.FE.ZS,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+324,2010,25.42,BAR.SEC.CMPT.1519.FE.ZS,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+325,2010,22.44,BAR.SEC.CMPT.1519.FE.ZS,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+326,2010,23.27,BAR.SEC.CMPT.1519.FE.ZS,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+327,2010,11.94,BAR.SEC.CMPT.1519.FE.ZS,EST,Estonia,Europe & Central Asia,High income,Not classified
+328,2010,4.4,BAR.SEC.CMPT.1519.FE.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+329,2010,51.18,BAR.SEC.CMPT.1519.FE.ZS,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+330,2010,13.74,BAR.SEC.CMPT.1519.FE.ZS,FIN,Finland,Europe & Central Asia,High income,Not classified
+331,2010,29.12,BAR.SEC.CMPT.1519.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+332,2010,19.18,BAR.SEC.CMPT.1519.FE.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+333,2010,2.17,BAR.SEC.CMPT.1519.FE.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+334,2010,8.92,BAR.SEC.CMPT.1519.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+335,2010,22.93,BAR.SEC.CMPT.1519.FE.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+336,2010,22.13,BAR.SEC.CMPT.1519.FE.ZS,GRC,Greece,Europe & Central Asia,High income,Not classified
+337,2010,6.84,BAR.SEC.CMPT.1519.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+338,2010,30.71,BAR.SEC.CMPT.1519.FE.ZS,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+339,2010,6.11,BAR.SEC.CMPT.1519.FE.ZS,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+340,2010,10.72,BAR.SEC.CMPT.1519.FE.ZS,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+341,2010,81.13,BAR.SEC.CMPT.1519.FE.ZS,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified
+342,2010,14.81,BAR.SEC.CMPT.1519.FE.ZS,HUN,Hungary,Europe & Central Asia,High income,Not classified
+343,2010,32.16,BAR.SEC.CMPT.1519.FE.ZS,ISL,Iceland,Europe & Central Asia,High income,Not classified
+344,2010,33.03,BAR.SEC.CMPT.1519.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+345,2010,16.73,BAR.SEC.CMPT.1519.FE.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+346,2010,66.8,BAR.SEC.CMPT.1519.FE.ZS,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+347,2010,21.93,BAR.SEC.CMPT.1519.FE.ZS,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+348,2010,20.36,BAR.SEC.CMPT.1519.FE.ZS,IRL,Ireland,Europe & Central Asia,High income,Not classified
+349,2010,34.75,BAR.SEC.CMPT.1519.FE.ZS,ISR,Israel,Middle East & North Africa,High income,Not classified
+350,2010,15.66,BAR.SEC.CMPT.1519.FE.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+351,2010,28.3,BAR.SEC.CMPT.1519.FE.ZS,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+352,2010,69.97,BAR.SEC.CMPT.1519.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+353,2010,22.64,BAR.SEC.CMPT.1519.FE.ZS,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+354,2010,62.62,BAR.SEC.CMPT.1519.FE.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+355,2010,4.5,BAR.SEC.CMPT.1519.FE.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+356,2010,74.19,BAR.SEC.CMPT.1519.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+357,2010,13.12,BAR.SEC.CMPT.1519.FE.ZS,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+358,2010,38.09,BAR.SEC.CMPT.1519.FE.ZS,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+359,2010,2.48,BAR.SEC.CMPT.1519.FE.ZS,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+360,2010,32.98,BAR.SEC.CMPT.1519.FE.ZS,LVA,Latvia,Europe & Central Asia,High income,Not classified
+361,2010,6.72,BAR.SEC.CMPT.1519.FE.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+362,2010,2.38,BAR.SEC.CMPT.1519.FE.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+363,2010,28.06,BAR.SEC.CMPT.1519.FE.ZS,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+364,2010,13.31,BAR.SEC.CMPT.1519.FE.ZS,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+365,2010,9.44,BAR.SEC.CMPT.1519.FE.ZS,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+366,2010,34.39,BAR.SEC.CMPT.1519.FE.ZS,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+367,2010,4.14,BAR.SEC.CMPT.1519.FE.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+368,2010,65.05,BAR.SEC.CMPT.1519.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+369,2010,8.05,BAR.SEC.CMPT.1519.FE.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+370,2010,2.6,BAR.SEC.CMPT.1519.FE.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+371,2010,18.73,BAR.SEC.CMPT.1519.FE.ZS,MLT,Malta,Middle East & North Africa,High income,Not classified
+372,2010,6.01,BAR.SEC.CMPT.1519.FE.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+373,2010,80.73,BAR.SEC.CMPT.1519.FE.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+374,2010,37.76,BAR.SEC.CMPT.1519.FE.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+375,2010,18.09,BAR.SEC.CMPT.1519.FE.ZS,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+376,2010,45.08,BAR.SEC.CMPT.1519.FE.ZS,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+377,2010,17.11,BAR.SEC.CMPT.1519.FE.ZS,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+378,2010,5.71,BAR.SEC.CMPT.1519.FE.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+379,2010,16.62,BAR.SEC.CMPT.1519.FE.ZS,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+380,2010,6.0,BAR.SEC.CMPT.1519.FE.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+381,2010,16.59,BAR.SEC.CMPT.1519.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+382,2010,21.81,BAR.SEC.CMPT.1519.FE.ZS,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+383,2010,38.61,BAR.SEC.CMPT.1519.FE.ZS,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+384,2010,23.9,BAR.SEC.CMPT.1519.FE.ZS,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+385,2010,4.21,BAR.SEC.CMPT.1519.FE.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+386,2010,14.4,BAR.SEC.CMPT.1519.FE.ZS,NOR,Norway,Europe & Central Asia,High income,Not classified
+387,2010,22.2,BAR.SEC.CMPT.1519.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+388,2010,31.67,BAR.SEC.CMPT.1519.FE.ZS,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+389,2010,5.6,BAR.SEC.CMPT.1519.FE.ZS,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend
+390,2010,13.97,BAR.SEC.CMPT.1519.FE.ZS,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+391,2010,40.95,BAR.SEC.CMPT.1519.FE.ZS,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+392,2010,22.91,BAR.SEC.CMPT.1519.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+393,2010,15.49,BAR.SEC.CMPT.1519.FE.ZS,POL,Poland,Europe & Central Asia,High income,IBRD
+394,2010,18.99,BAR.SEC.CMPT.1519.FE.ZS,PRT,Portugal,Europe & Central Asia,High income,Not classified
+395,2010,31.61,BAR.SEC.CMPT.1519.FE.ZS,QAT,Qatar,Middle East & North Africa,High income,Not classified
+396,2010,14.24,BAR.SEC.CMPT.1519.FE.ZS,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+397,2010,37.75,BAR.SEC.CMPT.1519.FE.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+398,2010,10.58,BAR.SEC.CMPT.1519.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+399,2010,19.93,BAR.SEC.CMPT.1519.FE.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+400,2010,0.56,BAR.SEC.CMPT.1519.FE.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+401,2010,17.33,BAR.SEC.CMPT.1519.FE.ZS,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+402,2010,7.57,BAR.SEC.CMPT.1519.FE.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+403,2010,72.53,BAR.SEC.CMPT.1519.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+404,2010,9.91,BAR.SEC.CMPT.1519.FE.ZS,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+405,2010,21.83,BAR.SEC.CMPT.1519.FE.ZS,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+406,2010,43.69,BAR.SEC.CMPT.1519.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+407,2010,27.11,BAR.SEC.CMPT.1519.FE.ZS,ESP,Spain,Europe & Central Asia,High income,Not classified
+408,2010,28.1,BAR.SEC.CMPT.1519.FE.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+409,2010,0.03,BAR.SEC.CMPT.1519.FE.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+410,2010,20.1,BAR.SEC.CMPT.1519.FE.ZS,SWE,Sweden,Europe & Central Asia,High income,Not classified
+411,2010,12.76,BAR.SEC.CMPT.1519.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+412,2010,15.33,BAR.SEC.CMPT.1519.FE.ZS,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,IDA
+413,2010,39.67,BAR.SEC.CMPT.1519.FE.ZS,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+414,2010,2.17,BAR.SEC.CMPT.1519.FE.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+415,2010,37.31,BAR.SEC.CMPT.1519.FE.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+416,2010,11.64,BAR.SEC.CMPT.1519.FE.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+417,2010,62.92,BAR.SEC.CMPT.1519.FE.ZS,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+418,2010,50.28,BAR.SEC.CMPT.1519.FE.ZS,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+419,2010,24.01,BAR.SEC.CMPT.1519.FE.ZS,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+420,2010,18.06,BAR.SEC.CMPT.1519.FE.ZS,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+421,2010,1.8599999999999999,BAR.SEC.CMPT.1519.FE.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+422,2010,34.57,BAR.SEC.CMPT.1519.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+423,2010,43.29,BAR.SEC.CMPT.1519.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+424,2010,60.35,BAR.SEC.CMPT.1519.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+425,2010,33.42,BAR.SEC.CMPT.1519.FE.ZS,USA,United States,North America,High income,Not classified
+426,2010,11.42,BAR.SEC.CMPT.1519.FE.ZS,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+427,2010,41.41,BAR.SEC.CMPT.1519.FE.ZS,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+428,2010,11.31,BAR.SEC.CMPT.1519.FE.ZS,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+429,2010,13.02,BAR.SEC.CMPT.1519.FE.ZS,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+430,2010,16.92,BAR.SEC.CMPT.1519.FE.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+431,2010,2.9,BAR.SEC.CMPT.1519.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
